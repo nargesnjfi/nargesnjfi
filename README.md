@@ -3,14 +3,20 @@
 ---
 
 ### 👨‍💻 About Me:
-🚀 **Frontend Developer & Freelancer** specializing in modern web technologies 
-📅 **Experience:** 6+ years in web development (2017-2025)
-✨ Passionate about creating beautiful, responsive, and user-friendly interfaces  
+🚀 **Frontend Developer & Freelancer** specializing in modern web technologies .
+
+📅 **Experience:** 6+ years in web development (2017-2025).
+
+✨ Passionate about creating beautiful, responsive, and user-friendly interfaces.  
+
  📫 How to reach me: [Email](mailto:narges.njfi.k95@gmail.com)
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/nrg3sn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in)
+
+
+---
 
 ### 🛠 Tech Stack:
 
@@ -36,6 +42,5 @@
 
 ---
 
-### 📊 Activity:
-![GitHub commit activity](https://github-readme-activity-graph.vercel.app/graph?username=nargesnjfi&theme=github)
-
+### 💻 Most Used Technologies
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nargesnjfi&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
