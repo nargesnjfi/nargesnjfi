@@ -42,8 +42,8 @@
 
 ---
 
-### 📈 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nargesnjfi&show_icons=true&theme=dark)
 
 ### 💻 Most Used Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nargesnjfi&layout=compact&theme=dark)
+
+| ![Stats](https://github-readme-stats.vercel.app/api?username=nargesnjfi&show_icons=true&count_private=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nargesnjfi&layout=compact) |
+| --- | --- |
