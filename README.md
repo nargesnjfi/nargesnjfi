@@ -1,18 +1,18 @@
-# 👋 Hello, I'm [narges]!
+👋 Hi! I'm a **Freelance Frontend Developer** available for new projects  
 
-### 🌐 Ask Google
-[![Google](https://img.shields.io/badge/Ask-Google-blue?logo=google)](https://www.google.com)
 
 ---
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nargesnjfi&show_icons=true&theme=dark)
 
 ---
 
 ### 👨‍💻 About Me:
-- 🚀 Currently working on **Fronthooks.ir**
-- 📫 How to reach me: [Email](mailto:your-email@example.com)
+🚀 **Frontend Developer & Freelancer** specializing in modern web technologies 
+📅 **Experience:** 6+ years in web development (2017-2025)
+✨ Passionate about creating beautiful, responsive, and user-friendly interfaces  
+ 📫 How to reach me: [Email](mailto:narges.njfi.k95@gmail.com)
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/nrg3sn)
