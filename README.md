@@ -39,5 +39,3 @@
 ### 📊 Activity:
 ![GitHub commit activity](https://github-readme-activity-graph.vercel.app/graph?username=nargesnjfi&theme=github)
 
-### 📌 Pinned Repositories:
-(در اینجا می‌توانید با استفاده از پین کردن مخزن‌ها در پروفایل، پروژه‌های خاص را نشان دهید)
