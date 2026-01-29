@@ -19,6 +19,10 @@
 ---
 
 ### 🛠 Tech Stack:
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
+**Backend:** C#, .NET, Entity Framework  
+**Database:** SQL Server, MongoDB  
+**Tools:** Vite, Postman, Web3.js
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -43,5 +47,5 @@
 ---
 
 
-### 💻 **Most Used Languages:**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nargesnjfi&layout=compact&theme=dark&hide_border=true&langs_count=8)
+### 💻 Top Languages  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nargesnjfi)
