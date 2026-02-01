@@ -20,6 +20,19 @@
 -------------
 
 🚀 Live Projects
+🔒 Freelance Project (Private / Offline)
+🧠 Freelance Web Application
+
+Key Features:
+
+✅ Integration with RESTful APIs (Postman)
+✅ Authentication & Authorization
+✅ React-based architecture
+✅ Component-based & scalable structure
+✅ Real-world freelance experience
+
+----
+
 🏛 Lawyer Website
 🔗 https://nargesnjfi.github.io/lawyerr-website/
 
@@ -32,13 +45,7 @@
 💳 Checkout Form Styling
 🔗 https://nargesnjfi.github.io/checkout-form-styling/
 
-🔒 Freelance Project (Private)
-A real-world freelance web application with:
 
-RESTful API integration
-Authentication & authorization
-Scalable React architecture
-📌 Code and demo available upon request.
 
 
 ---
