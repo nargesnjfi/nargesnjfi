@@ -10,10 +10,35 @@
 ✨ Passionate about creating beautiful, responsive, and user-friendly interfaces.  
 
  📫 How to reach me: [Email](mailto:narges.njfi.k95@gmail.com)
+ 
+ ---
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/nrg3sn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in)
+
+-------------
+
+🚀 Live Projects
+🏛 Lawyer Website
+🔗 https://nargesnjfi.github.io/lawyerr-website/
+
+🛍 Product Card Design
+🔗 https://nargesnjfi.github.io/product-card-design/
+
+📊 User Dashboard
+🔗 https://nargesnjfi.github.io/user-dashboard/
+
+💳 Checkout Form Styling
+🔗 https://nargesnjfi.github.io/checkout-form-styling/
+
+🔒 Freelance Project (Private)
+A real-world freelance web application with:
+
+RESTful API integration
+Authentication & authorization
+Scalable React architecture
+📌 Code and demo available upon request.
 
 
 ---
