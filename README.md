@@ -20,16 +20,22 @@
 -------------
 
 🚀 Live Projects
+
 🔒 Freelance Project (Private / Offline)
+
 🧠 Freelance Web Application
 
 Key Features:
 
 ✅ Integration with RESTful APIs (Postman)
+
 ✅ Authentication & Authorization
+
 ✅ React-based architecture
+
 ✅ Component-based & scalable structure
-✅ Real-world freelance experience
+
+✅ Real-world freelance experience....
 
 ----
 
