@@ -15,7 +15,7 @@
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/nrg3sn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in)
+
 
 -------------
 
@@ -27,9 +27,11 @@
 
 Key Features:
 
+☑️React query 
+
 ✅ Integration with RESTful APIs (Postman)
 
-✅ Authentication & Authorization
+✅ Authentication & Authorization 
 
 ✅ React-based architecture
 
@@ -45,21 +47,17 @@ Key Features:
 🛍 Product Card Design
 🔗 https://nargesnjfi.github.io/product-card-design/
 
-📊 User Dashboard
-🔗 https://nargesnjfi.github.io/user-dashboard/
-
 💳 Checkout Form Styling
 🔗 https://nargesnjfi.github.io/checkout-form-styling/
 
 
-
-
----
-
 ### 🛠 Tech Stack:
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
+**Frontend:** React, 
+TypeScript, Tailwind CSS  
+
 **Backend:** C#, .NET, Entity Framework  
-**Database:** SQL Server, MongoDB  
+**Database:** SQL Server, MongoDB 
+
 **Tools:** Vite, Postman, Web3.js
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
