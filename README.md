@@ -1,4 +1,4 @@
-👋 Hi! I'm a **Freelance Frontend Developer** available for new projects  
+نه👋 Hi! I'm a **Freelance Frontend Developer** available for new projects  
 
 ---
 
@@ -14,6 +14,12 @@
  ---
 
 ### 🌐 Socials:
+
+### 🔗 Reach me
+
+[![Telegram](https://skillicons.dev/icons?i=telegram)](https://t.me/Narg3snN)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:narges.njfi.k95@gmail.com)
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/nrg3sn)
 
 
