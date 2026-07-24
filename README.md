@@ -2,8 +2,8 @@
 
 ---
 
-### 👨‍💻 About Me:
-🚀 **Frontend Developer & Freelancer &backend(c#)** specializing in modern web technologies .
+### 👩🏻‍💻 About Me:
+🚀 **Frontend Developer & backend(c#)** specializing in modern web technologies
 
 📅 **Experience:** 6+ years in web development (2017-2026).
 
