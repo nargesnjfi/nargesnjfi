@@ -1,11 +1,11 @@
-👋 Hi! I'm a **Freelance Frontend Developer** available for new projects  
+👋 Hi! I'm a ** Frontend Developer & asp.net core web api** available for new projects  
 
 ---
 
 ### 👨‍💻 About Me:
-🚀 **Frontend Developer & Freelancer** specializing in modern web technologies .
+🚀 **Frontend Developer & Freelancer &backend(c#)** specializing in modern web technologies .
 
-📅 **Experience:** 6+ years in web development (2017-2025).
+📅 **Experience:** 6+ years in web development (2017-2026).
 
 ✨ Passionate about creating beautiful, responsive, and user-friendly interfaces.  
 
@@ -34,11 +34,14 @@
 
 -------------
 
-🚀 Live Projects
+🚀 Projects
+
+🔐Architected and maintained two subsidiary ledger accounting platforms using ASP.NET Core and Next.js (React), deployed on Windows IIS. Leveraged Clean Architecture for loose coupling, integrated robust security measures and validation layers, and ensured the systems remained up-to-date with regular maintenance and performance patches
 
 🔒 Freelance Project (Private / Offline)
 
 🧠 Freelance Web Application
+🍀 create website (fullstack) report
 
 Key Features:
 
@@ -67,10 +70,11 @@ Key Features:
 
 
 ### 🛠 Tech Stack:
-**Frontend:** React, 
+**Frontend:** React, Next.js
 TypeScript, Tailwind CSS  
 
-**Backend:** C#, .NET, Entity Framework  
+**Backend:** C#,asp.net core web api, Entity Framework  
+
 **Database:** SQL Server, MongoDB 
 
 **Tools:** Vite, Postman, Web3.js
